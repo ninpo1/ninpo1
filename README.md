@@ -1,4 +1,4 @@
-# PnP BERC DEV Starter Intranet for SharePoint Online  #
+# DIGITAL STREAMS BERC DEV Starter Intranet for SharePoint Online  #
 
 ![Version](https://img.shields.io/badge/version-2.2.1-green.svg)
 
@@ -8,7 +8,7 @@
   <img src="./images/starter.gif"/>
 </p>
 
-« PnP Starter Intranet » is a generic, enterprise intranet publishing solution, compatible with SharePoint 2013, 2016 and SharePoint Online and developed by aequos (www.aequos.ca). It is the direct result of hundreds of hours of work and analysis corroborated through the use of the solution in actual projects. 
+« Digital Streams Intranet » is a generic, enterprise intranet publishing solution, compatible with SharePoint 2013, 2016 and SharePoint Online and developed by aequos (www.aequos.ca). It is the direct result of hundreds of hours of work and analysis corroborated through the use of the solution in actual projects. 
 Version 2.0.0’s design was created by a firm of professional graphic designers (www.wearedetour.com) in order to meet the SharePoint intranet requirements of the IDRC (International Development Research Center, www.idrc.ca).
 
 We would therefore like to thank Denis Turgeon (Project manager at the CRDI) and Ryan Short (Founder and President of Detour UX) for having graciously agreed to share this solution with the SharePoint community. You can find the complete story behind this solution in this PnP Webcast:
