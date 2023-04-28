@@ -1,14 +1,14 @@
-<h1>Hi, I'm Christopher! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Enterprise Architect,  Solutions Architect </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ninpo1"></a> <a href="https://www.linkedin.com/in/ninpo1/">Enterprise Architect,  Solutions Architect </a>, <a href="https://www.youtube.com/c/ninpo1">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud Architecture Projects:</h2>
 
 - <b>Active Directory Migration</b>
-  - [AD Migration Architecture Patterns](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [AD Extension Architecture](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AD Migration Architecture Patterns](https://github.com/ninpo1/Algorithms-Practice)
+  - [AD Extension Architecture](https://github.com/ninpo1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/ninpo1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ninpo1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
@@ -40,7 +40,7 @@
 [linkedin]: https://www.linkedin.com/in/christopher-nazareth-architect/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
