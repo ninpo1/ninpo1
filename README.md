@@ -1,4 +1,4 @@
-# PnP Starter Intranet for SharePoint 2013/2016 and SharePoint Online  #
+# PnP BERC DEV Starter Intranet for SharePoint Online  #
 
 ![Version](https://img.shields.io/badge/version-2.2.1-green.svg)
 
